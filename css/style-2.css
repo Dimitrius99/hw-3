@@ -1,0 +1,21 @@
+body {
+  background-image: url("../image/sky.jpg");
+  font-family: Arial;
+}
+
+.wrapper {
+  width: 420px;
+  background-color: #fcfcfc;
+  margin: auto;
+  margin-top: 20px;
+  padding: 5px 30px 0 30px;
+}
+
+.text {
+  font-family: 'Pathway Gothic One';
+  color: #263555;
+}
+
+.text2 {
+  font-size: 12px;
+}
